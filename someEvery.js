@@ -121,5 +121,5 @@ function hasCertainValue(arr, key, myVal){
         return thing[key] === myVal
     })
 }
-console.log(hasCertainValue(example5, 'title', 'Instructor'))
-console.log(hasCertainValue(example5, 'first', 'Elie'))
+// console.log(hasCertainValue(example5, 'title', 'Instructor'))
+// console.log(hasCertainValue(example5, 'first', 'Elie'))
